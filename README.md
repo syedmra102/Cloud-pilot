@@ -22,16 +22,16 @@ CloudPilot is an all-in-one AWS management tool that lets you:
 ![Dashboard](./images/dashbooard.png)
 
 ### EC2 Instance Management
-![EC2 List]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-04-02 103322.png")
+![EC2 List](./images/list.png)
 
 ### Launch New Instance
-![EC2 Launch]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-04-02 103350.png")
+![EC2 Launch](./images/launch.png)
 
 ### Security Scan
-![Security Scan]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-04-02 103517.png")
+![Security Scan](./images/security.png)
 
 ### Cost Estimation
-![Cost Estimate]()"C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-04-02 103537.png"
+![Cost Estimate](./images/security.png)
 
 ## 🚀 Quick Start
 
